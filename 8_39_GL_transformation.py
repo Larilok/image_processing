@@ -14,7 +14,7 @@ interval = Image.fromarray(im3)
 #interval.show()
 
 #Square image
-im4 = (im ** 2)/255.0
+im4 = 255.0 * (im/255.0) ** 2
 squared = Image.fromarray(im4)
 squared.show()
 
