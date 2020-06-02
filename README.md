@@ -1,7 +1,7 @@
 Image processing practice based on udemy course
 ===============================================
-What I actually 
----------------
+What I actually did
+-------------------
 
 George... or Artem u definitely wanna check files mentioned below: 
 - Fixed black corner in 26.
